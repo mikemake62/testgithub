@@ -1,3 +1,8 @@
 PROGRAM tpgit;
+VAR
+nom : string;
 BEGIN
-writeln('salut tout le monde !');
+writeln('entrez votre nom : ');
+readln(nom);
+writeln("hello", nom);
+END
