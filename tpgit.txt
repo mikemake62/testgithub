@@ -1,0 +1,3 @@
+PROGRAM tpgit;
+BEGIN
+writeln('salut tout le monde !');
